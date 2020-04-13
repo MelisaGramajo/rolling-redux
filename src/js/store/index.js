@@ -6,3 +6,5 @@ const store = createStore(rootReducer);
 
 // exportamos el store para ser consultado por los componentes
 export default store;
+
+//reducers produce the state of your application.
